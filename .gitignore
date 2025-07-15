@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Output files (keep structure but ignore large files)
+output_results/*.jpg
+output_results/*.png
+input_images/*.jpg
+input_images/*.png
+input_images/*.jpeg
+
+# Keep important output files
+!output_results/detection_report.txt
+!output_results/.gitkeep
+!input_images/.gitkeep

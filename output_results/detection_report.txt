@@ -1,0 +1,15 @@
+POTHOLE DETECTION REPORT
+==================================================
+
+Total images processed: 1
+Total potholes detected: 4
+
+DETAILED RESULTS:
+------------------------------
+
+Image: uploaded_pothole_road.jpg
+Potholes detected: 4
+  Pothole 1: Area = 313 pixels (~0.03 sq.m)
+  Pothole 2: Area = 252 pixels (~0.03 sq.m)
+  Pothole 3: Area = 476 pixels (~0.05 sq.m)
+  Pothole 4: Area = 298 pixels (~0.03 sq.m)
